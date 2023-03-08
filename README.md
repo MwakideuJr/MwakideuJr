@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hello 👋, I'm Joshua Francis Mwakideu</h1>
 <h3 align="center">A fully committed web and software developer based in Kenya.</h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"> </img>
+<img align="right" alt="Coding" width="150" height="130" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwakideujr&label=Profile%20views&color=0e75b6&style=flat" alt="mwakideujr" /> </p>
 
